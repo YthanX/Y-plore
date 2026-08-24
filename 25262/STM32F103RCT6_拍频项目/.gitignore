@@ -1,0 +1,20 @@
+# IDE 用户状态
+*.uvguix.*
+*.uvoptx
+.vscode/
+
+# 构建输出
+build/
+Objects/
+Listings/
+*.axf
+*.elf
+*.map
+*.o
+*.d
+
+# 临时文件
+*.bak
+*.tmp
+*.log
+~$*

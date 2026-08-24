@@ -1,0 +1,6 @@
+tool: AC5
+fileName: 'STM32F103RCT6_BeatFrequency.map'
+elfName: 'STM32F103RCT6_BeatFrequency.axf'
+compilerName: 'ARM Compiler'
+compilerFullName: 'Product: ARM Compiler 5.06'
+compilerPath: 'C:\Users\Wanghelan\.eide\tools\armcc_v5_cracked\bin\armcc.exe'

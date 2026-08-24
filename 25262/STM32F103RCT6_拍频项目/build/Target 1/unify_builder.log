@@ -1,0 +1,77 @@
+[2026-08-24 23:37:32]	[info] incremental build: 48 source files changed
+These source files will be recompiled
+---
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\hardware\LCD\Fonts\font12.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\hardware\LCD\Fonts\font16.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\hardware\LCD\Fonts\font20.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\hardware\LCD\Fonts\font24.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\hardware\LCD\Fonts\font8.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\hardware\LCD\lcd\ili9341\ili9341.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\hardware\LCD\stm32_adafruit_lcd.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\hardware\LCD\stm32f1xx\lcd_io_gpio16.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\hardware\OLED_I2C.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\hardware\beat_chinese_font.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\hardware\beat_engine.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\hardware\beat_fifo.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\hardware\encoder.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\hardware\key.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\hardware\led.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\hardware\oled_canvas.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\hardware\usart.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\library\misc.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\library\stm32f10x_adc.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\library\stm32f10x_bkp.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\library\stm32f10x_can.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\library\stm32f10x_cec.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\library\stm32f10x_crc.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\library\stm32f10x_dac.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\library\stm32f10x_dbgmcu.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\library\stm32f10x_dma.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\library\stm32f10x_exti.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\library\stm32f10x_flash.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\library\stm32f10x_fsmc.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\library\stm32f10x_gpio.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\library\stm32f10x_i2c.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\library\stm32f10x_iwdg.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\library\stm32f10x_pwr.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\library\stm32f10x_rcc.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\library\stm32f10x_rtc.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\library\stm32f10x_sdio.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\library\stm32f10x_spi.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\library\stm32f10x_tim.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\library\stm32f10x_usart.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\library\stm32f10x_wwdg.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\start\core_cm3.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\start\startup_stm32f10x_hd.s': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\start\system_stm32f10x.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\system\Delay.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\user\beat_app.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\user\beat_display.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\user\main.c': object (.o) file not exist
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\user\stm32f10x_it.c': object (.o) file not exist
+
+[2026-08-24 23:37:34]	[done]
+	build successfully !
+
+[2026-08-24 23:38:00]	[info] incremental build: 4 source files changed
+These source files will be recompiled
+---
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\hardware\beat_engine.c': dependence 'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\user\beat_project_config.h' has been changed.
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\hardware\beat_fifo.c': dependence 'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\user\beat_project_config.h' has been changed.
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\user\beat_app.c': dependence 'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\user\beat_project_config.h' has been changed.
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\user\beat_display.c': dependence 'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\user\beat_project_config.h' has been changed.
+
+[2026-08-24 23:38:01]	[done]
+	build successfully !
+
+[2026-08-24 23:38:17]	[info] incremental build: 4 source files changed
+These source files will be recompiled
+---
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\hardware\beat_engine.c': dependence 'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\user\beat_project_config.h' has been changed.
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\hardware\beat_fifo.c': dependence 'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\user\beat_project_config.h' has been changed.
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\user\beat_app.c': dependence 'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\user\beat_project_config.h' has been changed.
+'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\user\beat_display.c': dependence 'C:\Users\Wanghelan\Desktop\stm32103rct6\LTS release\project-ministm32f103rct6-LTS\STM32F103RCT6_拍频项目\user\beat_project_config.h' has been changed.
+
+[2026-08-24 23:38:17]	[done]
+	build successfully !
+

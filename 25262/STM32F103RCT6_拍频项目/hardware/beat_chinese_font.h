@@ -1,0 +1,28 @@
+#ifndef __BEAT_CHINESE_FONT_H
+#define __BEAT_CHINESE_FONT_H
+
+#include "stm32f10x.h"
+
+typedef enum
+{
+    BEAT_CHINESE_XIN = 0,
+    BEAT_CHINESE_HAO,
+    BEAT_CHINESE_BO,
+    BEAT_CHINESE_XING,
+    BEAT_CHINESE_FU,
+    BEAT_CHINESE_DU,
+    BEAT_CHINESE_XIANG,
+    BEAT_CHINESE_WEI,
+    BEAT_CHINESE_ZHENG,
+    BEAT_CHINESE_XIAN,
+    BEAT_CHINESE_SAN,
+    BEAT_CHINESE_JIAO,
+    BEAT_CHINESE_JU,
+    BEAT_CHINESE_CHI,
+    BEAT_CHINESE_FANG,
+    BEAT_CHINESE_COUNT
+} BeatChineseGlyph;
+
+uint16_t BeatChineseFont_GetRow(BeatChineseGlyph glyph, uint8_t row);
+
+#endif

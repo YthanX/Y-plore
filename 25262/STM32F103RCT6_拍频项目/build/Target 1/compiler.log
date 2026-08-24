@@ -1,0 +1,27 @@
+>>> info
+
+Compiler Full Name: Product: ARM Compiler 5.06
+Compiler Version: 5.06
+Builder Mode: Incremental
+The amount of C files: 4
+The amount of C++ files: 0
+The amount of Asm files: 0
+
+>>> prebuild
+
+
+
+>>> cc
+
+
+
+
+
+
+>>> ld
+
+Program Size: Code=22492 RO-data=5632 RW-data=380 ZI-data=44308  
+
+
+>>> postbuild
+
