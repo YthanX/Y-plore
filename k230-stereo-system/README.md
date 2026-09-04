@@ -3,7 +3,7 @@
 这是一个基于 **K230 + STM32F103** 搭建的嵌入式视觉与控制系统。
 
 
-![Uploading image.png…]()
+<img width="748" height="561" alt="image" src="https://github.com/user-attachments/assets/daa2c116-e177-46f1-b836-ce2c8c42f64c" />
 
 
 项目最初以 YOLO 目标检测和 K230 嵌入式部署为切入点，随后逐步扩展为一个包含：
